@@ -1,4 +1,4 @@
-package ExerciciosOrientacaoAObjetos.Casa;
+package ExerciciosOrientacaoAObjetos.Casa.Casa01;
 
 public class C01ex02 {
     public static void main(String[] args) {
