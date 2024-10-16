@@ -1,4 +1,4 @@
-package ExerciciosOrientacaoAObjetos.Casa;
+package ExerciciosOrientacaoAObjetos.Casa.Casa01;
 import java.util.Scanner;
 
 public class C01ex03 {
