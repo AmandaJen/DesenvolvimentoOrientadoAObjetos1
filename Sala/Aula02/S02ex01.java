@@ -18,7 +18,7 @@ class Carro{
     }
 
     public void exibirMarca(){
-        System.out.println("Marca:"+marca);
+        System.out.println("Marca: "+marca);
     }
     
     public void exibirAnoECor(){
@@ -42,7 +42,7 @@ public class S02ex01 {
         carro2.exibirMarca();
         carro2.exibirAnoECor();
         System.out.println(" ");
-        System.out.println("Informacoes meu carro:");
+        System.out.println("Informacoes do meu carro:");
         meucarro.exibirModelo();
         meucarro.exibirMarca();
         meucarro.exibirAnoECor();
